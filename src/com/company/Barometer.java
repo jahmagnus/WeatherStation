@@ -1,4 +1,4 @@
 package com.company;
 
-public class Barometer implements ISensors {
+public class Barometer  {
 }

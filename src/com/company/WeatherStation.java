@@ -1,8 +1,10 @@
 package com.company;
 
-public class WeatherStation {
+public class WeatherStation{
 
-    private Thermometer thermometer;
-    private Barometer barometer;
-    private Hygrometer hygrometer;
+
+
+
+
+
 }

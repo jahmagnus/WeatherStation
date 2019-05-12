@@ -1,4 +1,13 @@
 package com.company;
 
-public class Thermometer implements ISensors {
+import java.util.ArrayList;
+import java.util.List;
+
+public class Thermometer extends Sensor{
+
+
+
 }
+
+
+
